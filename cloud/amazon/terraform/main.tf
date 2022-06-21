@@ -172,3 +172,4 @@ resource "kubernetes_service" "example" {
     type = "LoadBalancer"
   }
 }
+    }
